@@ -8,3 +8,4 @@ square_array(new_numbers)
 new_numbers = []
 
 end
+return 
