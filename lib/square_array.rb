@@ -1,7 +1,7 @@
 numbers = [1,2,3]
 def square_array(array)
   length = array.length 
- length.times 
+ length.times do  
  
 end
  
