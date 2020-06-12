@@ -1,9 +1,9 @@
-numbers = [1,2,3]
+= begin numbers = [1,2,3]
 def square_array(array)
   length = array.length 
  length.times do |index| 
  
-end
+=end
 
 def square_array(numbers)
   new_array = []
