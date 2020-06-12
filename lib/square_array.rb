@@ -4,10 +4,13 @@ def square_array(array)
  length.times do |index| 
  
 end
- 
 
-square_array(new_numbers) 
-new_number
-
+def square_array(numbers)
+  new_array = []
+  counter = 0 
+  while counter < numbers.length()
+  new_array.push(numbers[counter] * numbers[counter])
+  counter += 1
+end 
+  return new_array
 end
-new numbers  
