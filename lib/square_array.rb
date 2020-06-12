@@ -4,7 +4,7 @@ end
  
 
 square_array(new_numbers) 
-new_numbers = []
+new_number
 
 end
 new numbers  
